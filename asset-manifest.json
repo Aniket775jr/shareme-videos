@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shareme-videos/static/css/main.7064deb2.css",
+    "main.js": "/shareme-videos/static/js/main.cc85bd6c.js",
+    "index.html": "/shareme-videos/index.html",
+    "main.7064deb2.css.map": "/shareme-videos/static/css/main.7064deb2.css.map",
+    "main.cc85bd6c.js.map": "/shareme-videos/static/js/main.cc85bd6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.cc85bd6c.js"
+  ]
+}
